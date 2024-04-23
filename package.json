@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "babel src --watch -d dist"
+    "build": "ES6 src --watch -d dist"
   },
   "browserslist": "> 0.25%",
   "devDependencies": {
